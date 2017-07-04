@@ -1,7 +1,7 @@
 {
-  "name": "pong-web",
+  "name": "es6-template",
   "version": "1.0.0",
-  "description": "Pong video game for browser.",
+  "description": "ES6 Template.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
